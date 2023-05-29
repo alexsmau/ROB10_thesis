@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 from pyzbar.pyzbar import decode
 # import webbrowser
-
 # Camera matrix parameters from sensor_msgs/CameraInfo.msg
 FX = 1465.99853515625
 FY = 1468.26416015625
